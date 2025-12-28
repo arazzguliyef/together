@@ -62,16 +62,6 @@ Bu proje, modern mobil uygulama geliştirme standartlarına uygun olarak aşağ�
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-| Giriş Ekranı | Ana Sayfa | Kart Savaşı |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/300x600?text=Login" width="200"/> | <img src="https://via.placeholder.com/300x600?text=Home" width="200"/> | <img src="https://via.placeholder.com/300x600?text=Card+Game" width="200"/> |
-
-*(Not: Proje geliştirme aşamasında olduğu için ekran görüntüleri güncellenecektir.)*
-
----
-
 ## 💻 Kurulum ve Çalıştırma
 
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
