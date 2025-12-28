@@ -98,12 +98,6 @@ Her türlü katkıya açığız! Hata bildirmek, özellik önermek veya gelişti
 
 ---
 
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-
----
-
 <div align="center">
-  <b>Sewgiyle Kodlandı ❤️</b>
+  <b>Sevgiyle Kodlandı ❤️</b>
 </div>
