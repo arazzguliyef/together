@@ -36,7 +36,7 @@ Uygulama, **Supabase Realtime** altyapısını kullanarak kesintisiz bir oyun de
     -   Kelime dağarcığınızı yarıştırın.
     -   Sıra tabanlı, interaktif yapı.
 
-3.  **Hafıza ve Diğer Oyunlar:** *(Geliştirme aşamasında)* - Birlikte çözebileceğiniz bulmacalar.
+3.  **Hafıza ve Diğer Oyunlar:**
 
 ### 🎨 Modern ve Estetik Arayüz
 -   **Flutter Animate** ile güçlendirilmiş yumuşak geçişler ve mikro etkileşimler.
